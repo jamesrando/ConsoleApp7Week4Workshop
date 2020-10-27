@@ -8,5 +8,10 @@ namespace ConsoleApp7
 {
     class Class1
     {
+
+        if (true)
+	{
+
+	}
     }
 }
